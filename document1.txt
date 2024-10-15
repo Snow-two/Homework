@@ -3,3 +3,6 @@ Artificial Inteligence 24 Choi Wonjae
 Document1
 
 main Branch modified by Wonjae
+Branch1 Changed
+
+두 변경사항을 모두 수락하였다.

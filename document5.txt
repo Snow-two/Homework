@@ -1,6 +1,5 @@
 Kumoh national institute of technology
 Artificial Inteligence 24 Choi Wonjae
-Document2
+Document5
 
-
-Document2 - main Branch
+수신 변경사항을 수락하였다.
